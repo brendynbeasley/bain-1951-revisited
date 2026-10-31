@@ -1,0 +1,18 @@
+# Compustat data is licensed through WRDS and may not be redistributed
+data/compustat/
+results/firms_*.csv
+results/changes_firms.csv
+
+# Census bulk downloads (the extracted .dat files are committed instead)
+data/raw/*.zip
+data/raw/trade_*.csv
+
+# Secrets
+census_key*.txt
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
