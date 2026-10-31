@@ -4,307 +4,304 @@
 
 ---
 
-Pour yourself a bowl of cereal tomorrow morning. Four companies make **87%** of the breakfast cereal produced in
-the United States. Fry some bacon, and the meat most likely passed through one of the four firms that handle
-**two-thirds** of America's beef and pork slaughtering. The oil in the pan probably started as a soybean crushed by
-one of the four processors (ADM, Bunge, Cargill and their nearest rival) that together control **76%** of that
-business. Then you drive to work in a car built by one of eight automakers responsible for **85%** of American
-vehicle production, burning gasoline from refineries where four companies make **more than half** of the fuel.
+Four companies make 87% of the breakfast cereal produced in the United States. If you have bacon with it, the pork
+most likely passed through one of the four firms that handle two-thirds of the country's beef and pork
+slaughtering, and the oil in the pan probably started as a soybean crushed by ADM, Bunge, Cargill or their nearest
+rival, who between them account for 76% of soybean processing. The drive to work happens in a car built by one of eight
+automakers responsible for 85% of American vehicle production, on gasoline from refineries where four companies
+make more than half the fuel.
 
-None of this is a secret. The US Census Bureau measures it every five years, industry by industry, down to the
-last malt house and ammunition plant. What's much less obvious is what it means: whether a market run by a few
-giants is a market that quietly overcharges everyone else.
-
-That question has a history, and it starts with a Berkeley economist named Joe Bain.
+The Census Bureau publishes these numbers every five years, industry by industry, down to the last malt house and
+ammunition plant. What they mean is a harder question. A market run by a few giants might be quietly overcharging
+everyone else, or it might simply be run by the companies that do the job best, and the two possibilities call for
+very different responses. Economists have been arguing about which it is since a Berkeley professor named Joe Bain
+first tried to measure it.
 
 ---
 
-## What a monopoly is, and what it usually isn't
+## Monopolies, and the more common thing
 
-A **monopoly** is a market with one seller. True monopolies are rare in modern manufacturing. Far more common is
-what economists call an **oligopoly**: a market split among a handful of large companies, each big enough that its
-decisions move the whole industry.
+Strictly speaking, a monopoly is a market with a single seller, and true monopolies are rare in modern
+manufacturing. Far more common is what economists call an oligopoly, a market divided among a handful of large
+companies, each big enough that its decisions move the whole industry.
 
-To see how concentrated an industry is, you only need one piece of arithmetic. Bain used it, and the Census still
-publishes it today:
+Measuring how concentrated an industry is takes one line of arithmetic, the same one Bain used and the Census
+still publishes:
 
 > **Eight-firm concentration ratio (CR8)** = sales of the 8 largest companies ÷ total sales of the industry
 
-If an industry sells $100 billion of goods a year and its eight biggest companies account for $72 billion of it,
-its CR8 is 72%. Bain drew his line at **70%**: above it, he argued, an industry behaves less like a market and more
-like a private club.
+An industry that sells $100 billion of goods a year, $72 billion of it from its eight biggest companies, has a CR8 of
+72%. Bain drew his line at 70%. Above it, he believed, an industry stopped behaving like a competitive market.
 
-There's a second, sharper yardstick, the one the Justice Department uses to review mergers. Take each company's
-market share, square it, and add up the results. That's the **Herfindahl-Hirschman Index (HHI)**:
+The Justice Department relies on a second measure when it reviews mergers, the Herfindahl-Hirschman Index, or HHI.
+You square each company's market share and add up the results. Because the shares are squared, large companies
+count for far more than small ones, which makes the index more sensitive to dominance than a simple ratio.
 
 | Market | Calculation | HHI |
 |---|---|---|
-| One company with everything | 100² | **10,000** |
-| Four equal companies | 4 × 25² | **2,500** |
-| A hundred equal companies | 100 × 1² | **100** |
+| One company with everything | 100² | 10,000 |
+| Four equal companies | 4 × 25² | 2,500 |
+| A hundred equal companies | 100 × 1² | 100 |
 
-Squaring is what makes it sharp: it punishes size. The government treats any market above **1,800** as "highly
-concentrated."
+The government treats any market scoring above 1,800 as highly concentrated.
 
 ---
 
-## The map: how American manufacturing is organized
+## How American manufacturing is organized
 
-In 2022, American factories shipped **$7.05 trillion** of goods across 346 distinct industries, everything from
-guided missiles to cheese. Here is how that output is divided:
+In 2022, American factories shipped $7.05 trillion of goods across 346 distinct industries, from guided missiles to
+cheese. The table below shows how that output divides up by concentration.
 
 | Top 8 companies' share of their industry | Number of industries | Share of all US manufacturing output |
 |---|---|---|
-| Under 25% (many small competitors) | 32 | 10% |
+| Under 25% | 32 | 10% |
 | 25–50% | 123 | 28% |
 | 50–70% | 102 | 24% |
-| **70–90% (Bain's danger zone)** | **69** | **33%** |
-| **90% or more** | **20** | **5%** |
+| 70–90% | 69 | 33% |
+| 90% or more | 20 | 5% |
 
-That's **89 industries**, together producing **38% of everything made in America**, above Bain's 70% line. In
-2017 the figure was 28%, though most of the jump comes from one industry, oil refining, crossing the line during the
-2022 fuel-price spike.
+Eighty-nine industries sit above Bain's 70% line, and together they produce 38% of everything made in America. In
+2017 the figure was 28%, although most of that increase comes from a single industry, oil refining, which crossed
+the line during the 2022 surge in fuel prices.
 
-The HHI adds an important nuance. Only **11 of 271** industries clear the government's 1,800 threshold. American
-manufacturing isn't ruled by kings. It's run by **committees of giants**: three, four or eight companies that
-together hold most of the market, with no single one holding it alone.
+The HHI complicates the picture. Only 11 of the 271 industries with published scores clear the government's 1,800
+threshold, because in most concentrated industries the market is shared among three, four or eight large companies
+rather than held by one. American manufacturing has very few true monopolies and a great many small groups of very
+large firms.
 
 ---
 
-## Who's at the top
+## Who leads the most concentrated industries
 
-The Census tells us *how much* the biggest four companies control, though it doesn't publish their names. The
-names below are each industry's well-known leaders:
+The Census reports how much of each industry its four largest companies control, but it doesn't name them. The
+names in this table are each industry's well-known leaders.
 
 | What you know it as | Top 4's share | Who leads the industry | Annual output |
 |---|---|---|---|
-| Missiles and rockets | **97%** | Lockheed Martin, RTX, Northrop Grumman | $15 billion |
-| Cigarettes and tobacco | **91%** | Altria (Marlboro); Reynolds American (Camel, Newport), owned by British American Tobacco | $51 billion |
-| Breakfast cereal | **87%** | General Mills, the Kellogg's cereal business, Post, PepsiCo's Quaker | $11 billion |
-| Airplanes | **84%** | Boeing, by a wide margin | $93 billion |
-| Corn syrup and starch | **80%** | ADM, Cargill, Ingredion | $18 billion |
-| Soybean oil and meal | **76%** | ADM, Bunge, Cargill | $60 billion |
-| Heavy trucks | **76%** | Paccar (Kenworth, Peterbilt), Daimler Truck (Freightliner), Volvo (Mack) | $33 billion |
-| Major appliances | **70%** | Whirlpool, GE Appliances | $24 billion |
-| Beef and pork | **66%** | Tyson, JBS, Cargill, National Beef, Smithfield | $125 billion |
-| Steel | **60%** | Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel | $130 billion |
-| Cars and light trucks | **58%** | GM, Ford, Stellantis, Toyota, plus Honda, Hyundai and Tesla | $357 billion |
-| Gasoline and diesel | **52%** | Marathon, Valero, ExxonMobil, Phillips 66 | $825 billion |
-| Prescription drugs | **40%** | Pfizer, Merck, Eli Lilly, Johnson & Johnson | $150 billion |
-| Plastic products | **9%** | Nobody. Almost 4,700 companies split it. | $123 billion |
+| Missiles and rockets | 97% | Lockheed Martin, RTX, Northrop Grumman | $15 billion |
+| Cigarettes and tobacco | 91% | Altria (Marlboro); Reynolds American (Camel, Newport), owned by British American Tobacco | $51 billion |
+| Breakfast cereal | 87% | General Mills, the Kellogg's cereal business, Post, PepsiCo's Quaker | $11 billion |
+| Airplanes | 84% | Boeing, by a wide margin | $93 billion |
+| Corn syrup and starch | 80% | ADM, Cargill, Ingredion | $18 billion |
+| Soybean oil and meal | 76% | ADM, Bunge, Cargill | $60 billion |
+| Heavy trucks | 76% | Paccar (Kenworth, Peterbilt), Daimler Truck (Freightliner), Volvo (Mack) | $33 billion |
+| Major appliances | 70% | Whirlpool, GE Appliances | $24 billion |
+| Beef and pork | 66% | Tyson, JBS, Cargill, National Beef, Smithfield | $125 billion |
+| Steel | 60% | Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel | $130 billion |
+| Cars and light trucks | 58% | GM, Ford, Stellantis, Toyota, plus Honda, Hyundai and Tesla | $357 billion |
+| Gasoline and diesel | 52% | Marathon, Valero, ExxonMobil, Phillips 66 | $825 billion |
+| Prescription drugs | 40% | Pfizer, Merck, Eli Lilly, Johnson & Johnson | $150 billion |
+| Plastic products | 9% | Almost 4,700 companies, none of them dominant | $123 billion |
 
-Some of these empires are very old. When Bain ran his numbers in the 1930s, corn syrup and starch was already 95%
-controlled by eight firms, and cigarettes 99%.
+Several of these positions are old ones. When Bain ran his numbers on the 1930s, eight firms already controlled 95%
+of corn syrup and starch and 99% of cigarettes.
 
 ---
 
 ## Joe Bain's question
 
-In 1951 Joe Bain, an economist at the University of California, Berkeley, published a 32-page paper with an
-unglamorous title: *"Relation of Profit Rate to Industry Concentration: American Manufacturing, 1936–1940."* It
-became one of the founding documents of modern antitrust.
+In 1951 Joe Bain, an economist at the University of California, Berkeley, published a 32-page paper titled
+"Relation of Profit Rate to Industry Concentration: American Manufacturing, 1936–1940." It went on to become one of
+the founding documents of modern antitrust.
 
-Bain's list of industries reads like a Depression-era shopping catalog: cigarettes, typewriters, chewing gum,
-linoleum, soap, fountain pens, rubber tires. For each he measured concentration, then dug through the financial
-filings of 335 companies to measure profit the old-fashioned way:
+His list of industries reads like a Depression-era shopping catalog, with cigarettes, typewriters, chewing gum,
+linoleum, soap, fountain pens and rubber tires among them. For each one he measured concentration, then worked
+through the financial filings of 335 companies to measure profit the way an investor would:
 
 > **Profit rate** = net profit after taxes ÷ the shareholders' money invested in the business
 
-Then he split the industries at his 70% line and compared:
+When he split the industries at 70%, the difference was large.
 
 | 1936–1940 | Profit rate |
 |---|---|
-| Industries above 70% | **12.1%** a year |
-| Industries below 70% | **6.9%** a year |
+| Industries above 70% | 12.1% a year |
+| Industries below 70% | 6.9% a year |
 
-That 5.2-point gap sounds modest until you put money on it. On every **$1 billion** of shareholders' capital, the
-concentrated industries earned about **$52 million more each year**. Bain also showed it was very unlikely to be a
-fluke.
+A gap of 5.2 percentage points meant that for every $1 billion of shareholders' capital, the concentrated industries
+earned about $52 million more each year, and Bain showed the gap was very unlikely to be a statistical accident. The
+conclusion most readers drew was that companies in concentrated markets used their position to charge more, and
+for a generation that idea shaped how the United States enforced its antitrust laws.
 
-The conclusion seemed obvious, and for a generation it shaped American antitrust: **when a few firms control a
-market, they use that control to charge more, and the profits prove it.**
+The strongest challenge came in 1973 from Harold Demsetz, an economist closely associated with the free-market
+Chicago school. He argued that the same profits could be explained by efficiency. Large firms might earn more
+because they had better factories, better logistics and lower costs, in which case breaking them up would punish the
+companies doing the best work. He also suggested a way to tell the two explanations apart. If concentrated
+industries were profitable because prices were being propped up, the smaller companies in those industries should
+profit as well, since they sell at the same prices. If the profits came from efficiency, they should show up mainly
+at the largest companies.
 
-It didn't stay uncontested. In 1973 the economist Harold Demsetz, a leading voice of the free-market "Chicago
-school," offered a sharper reading of the same kind of evidence. Maybe the giants were rich because they were *better*: bigger factories, smarter logistics, cheaper
-production. If that were true, breaking them up would punish efficiency, not greed. Demsetz even proposed a test.
-If the profits came from rigging prices, the small companies in those industries would profit too, because they'd
-be selling at the same inflated prices. If the profits came from being better, only the big companies would see
-them.
-
-That argument has never been settled, and it's more relevant than ever. So I rebuilt Bain's study, piece by piece,
-for the 2020s.
-
----
-
-## What I did
-
-I took the Census concentration figures for every manufacturing industry in **2017** and **2022** and matched them
-to the financial statements of roughly **a thousand publicly traded American manufacturers** in each period, over
-the five years around each Census (2015–2019 and 2021–2025). I used Bain's own rules wherever possible: at least
-three companies per industry, each company assigned to the industry where it earns most of its money, and
-industries that serve only local markets set aside. Then I ran his test, and Demsetz's, and several more.
-
-Here is what came back.
+The question was never settled, and it matters at least as much now as it did then, so I rebuilt Bain's study for
+the 2020s.
 
 ---
 
-## Finding 1: The 70% line has vanished
+## How I tested it
+
+I took the Census concentration figures for every manufacturing industry in 2017 and 2022 and matched them to the
+financial statements of roughly a thousand publicly traded American manufacturers in each period, covering the five
+years around each Census (2015 to 2019 and 2021 to 2025). Wherever possible I followed Bain's own rules. Each
+industry needed at least three companies with financial data, each company was assigned to the industry where it
+earns most of its money, and industries that serve only local markets were set aside. Then I ran his test,
+Demsetz's test, and several others that economists have developed since.
+
+---
+
+## Concentrated industries no longer earn more
 
 | | Highly concentrated (70%+) | Everyone else | Gap |
 |---|---|---|---|
-| **Bain, 1936–40** | 12.1% | 6.9% | **5.2 points** |
-| **2015–2019** | 5.7% | 5.3% | 0.4 points |
-| **2021–2025** | 5.6% | 5.1% | 0.5 points |
+| Bain, 1936–40 | 12.1% | 6.9% | 5.2 points |
+| 2015–2019 | 5.7% | 5.3% | 0.4 points |
+| 2021–2025 | 5.6% | 5.1% | 0.5 points |
 
-*Modern figures are return on assets, explained below. Return on equity, Bain's measure, tells the same story.*
+*Modern figures are return on assets, for reasons explained below. Return on equity, Bain's measure, gives the same
+result.*
 
-On $1 billion of assets, half a percentage point is **$5 million a year**, a difference small enough that it could
-easily be chance. Moving the line doesn't help either: no cutoff, from 25% to 85%, sorts profitable industries
-from the rest in both periods.
+Half a percentage point on $1 billion of assets comes to about $5 million a year, a difference small enough that it
+could easily be chance. Moving the dividing line doesn't change this, and no cutoff between 25% and 85% separates
+the profitable industries from the rest in both periods.
 
-The reason is clear once you look at who's in the concentrated group. It contains some of the most profitable
-businesses in America, and some of the least:
+The concentrated group is simply too varied for a single rule to describe it. It includes some of the most
+profitable businesses in the country and some that lost money.
 
 | Industry | Top companies | Top 8's share | Profit on assets, 2021–25 |
 |---|---|---|---|
-| Chip-making equipment | Applied Materials, Lam Research | 78% | **21%** |
-| Tobacco | Philip Morris, Altria | 96% | **17%** |
-| Airplanes | Boeing | 95% | **−3%** (losing money) |
-| Batteries | EnerSys, Energizer, Fluence | 79% | **−5%** (losing money) |
+| Chip-making equipment | Applied Materials, Lam Research | 78% | 21% |
+| Tobacco | Philip Morris, Altria | 96% | 17% |
+| Airplanes | Boeing | 95% | −3% |
+| Batteries | EnerSys, Energizer, Fluence | 79% | −5% |
 
-Dominating your market, it turns out, is no guarantee of making money in it. Boeing towers over the American
-airplane business, and it lost money anyway.
+Boeing leads an industry in which the top eight companies make 95% of the output, and over these five years it lost
+money.
 
-**A note on measurement.** Bain measured profit against shareholders' equity, the money owners have put into the
-business. That measure has broken down for some of the biggest names in American business. Years of share buybacks
-and heavy losses have pushed the equity of companies like **Philip Morris International** and **Boeing** below
-zero, and when the denominator is zero or negative, "profit ÷ equity" stops meaning anything. So I measure profit
-against total assets instead, everything the company owns, which no amount of financial engineering can push below
-zero.
+I measure profit against total assets rather than Bain's shareholders' equity because equity has become unreliable
+for some of the largest companies in the country. Years of share buybacks and heavy losses have pushed the reported
+equity of Philip Morris International and Boeing below zero, and dividing profit by a negative number produces
+nonsense. Total assets, meaning everything a company owns, can't be pushed below zero by financial decisions of that
+kind.
 
 ---
 
-## Finding 2: The industries that look like price-gougers are really research labs
+## High markups mostly reflect research spending
 
-Modern economists often skip profits and go straight to **markups**: how far a company's prices sit above what it
-costs to make one more unit.
+Many economists now study markups instead of profits. A markup compares a product's price with the cost of making
+one more unit of it.
 
 > **Markup** = price ÷ cost of producing one more unit
 
-A markup of 1.5 means something that costs $1.00 to make sells for $1.50.
+So a markup of 1.5 means a product that costs $1.00 to make sells for $1.50.
 
-Measured the standard way, the industries with the biggest markups aren't the concentrated ones at all. They're
-drug makers and biotech firms like **Pfizer, Merck, AbbVie and Amgen**, which sit in only moderately concentrated
-industries. The standard formula counts materials and factory labor as costs, but not the billions these companies
-spend on research and marketing. A pill that costs pennies to press looks like an enormous markup when the decade of
-research behind it is left off the books.
+By the standard method, the industries with the highest markups aren't the concentrated ones. They're pharmaceutical
+and biotech industries, home to companies like Pfizer, Merck, AbbVie and Amgen, where market shares are only
+moderate. The standard calculation counts materials and factory labor as costs but leaves out research and
+marketing, which are where these companies spend most of their money. A pill that costs very little to manufacture
+appears to carry an enormous markup once the years of research behind it are left off the books.
 
-Count those costs, and the picture flattens: the average markup in concentrated and unconcentrated industries is
-the same, about **1.15**.
+When research, marketing and overhead are counted as costs, the gap disappears, and concentrated and
+unconcentrated industries both average a markup of about 1.15.
 
 ![Markups in US manufacturing, 2013–2025](results/markup_trend.png)
 
-There is a trend worth noticing, though. With research and overhead counted, manufacturing markups rose from **1.18
-to 1.28** between 2013 and 2025. For every $100 it cost to make something, the price went from about $118 to about
-$128. That extra $10 per $100 is real money spread across the whole economy. But the most concentrated industries
-weren't driving it: by the standard measure, their markups slipped over the period while everyone else's rose.
+The trend over time is still worth noting. With those costs included, manufacturing markups rose from 1.18 in 2013
+to 1.28 in 2025, so a product that cost $100 to make went from selling for about $118 to about $128. Across the
+whole economy that is a substantial amount of money. The most concentrated industries weren't responsible for it,
+though. By the standard measure, their markups declined over the period while markups elsewhere rose.
 
 ---
 
-## Finding 3: When an industry consolidates, the biggest companies win and everyone else loses ground
+## When industries consolidate, the largest companies gain
 
-Comparing different industries has a weakness: a drug maker and a steel mill differ in a hundred ways besides how
-many competitors they have. So for the last test I compared **each industry with itself**. In industries that
-became *more* concentrated between 2017 and 2022, did profits rise?
+Comparing different industries has a built-in weakness, since a drug maker and a steel mill differ in many ways
+besides the number of competitors they face. For the last test I compared each industry with itself, asking
+whether profits rose in industries that became more concentrated between 2017 and 2022.
 
-On average, yes. Weighting industries by their size, every additional point of concentration went with about **0.4
-points more profit on assets**. An industry where the top eight gained 5 points of market share typically saw its
-return climb by about 2 points, which is a lot when typical returns run around 5%.
+On average they did. With industries weighted by size, each additional point of concentration was associated with
+about 0.4 points of additional profit on assets. An industry in which the top eight companies gained five points of
+market share typically saw its return rise by around two points, which is a large change when returns usually run
+near 5%.
 
 | Industry | Top companies | Change in top-8 share | Profit on assets, before → after |
 |---|---|---|---|
-| Steel | Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel | +4 points | 3.8% → **10.9%** |
-| Oil refining | ExxonMobil, Chevron, Marathon, Valero, Phillips 66 | +5 points | 4.2% → **8.6%** |
-| Semiconductors | Nvidia, Intel, Qualcomm, Broadcom | +5 points | 9.9% → **13.1%** |
-| Railcars | Wabtec, Greenbrier | +13 points | 6.5% → **4.0%** |
+| Steel | Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel | +4 points | 3.8% → 10.9% |
+| Oil refining | ExxonMobil, Chevron, Marathon, Valero, Phillips 66 | +5 points | 4.2% → 8.6% |
+| Semiconductors | Nvidia, Intel, Qualcomm, Broadcom | +5 points | 9.9% → 13.1% |
+| Railcars | Wabtec, Greenbrier | +13 points | 6.5% → 4.0% |
 
-It isn't automatic. Railcars consolidated sharply and got *less* profitable. And steel and refining both rode
-enormous price booms after the pandemic and Russia's invasion of Ukraine. (Steel's concentration rose partly
-because Cleveland-Cliffs bought AK Steel and ArcelorMittal USA in 2020.) But the pattern survives with refining
-removed, and with any single industry removed.
+The relationship isn't automatic. Railcar manufacturing consolidated more than any industry in the table and became
+less profitable. Steel and refining also benefited from large price increases after the pandemic and Russia's
+invasion of Ukraine, and steel's concentration rose partly because Cleveland-Cliffs bought AK Steel and
+ArcelorMittal USA in 2020. The overall pattern holds when refining is removed, and when any other single industry is
+removed.
 
-**The most revealing part is who gained.** I followed the same 564 companies through both periods. When an industry
-consolidated, its **largest companies became more profitable, while the smaller companies in the same industry
-became less profitable**. The effect is modest and not statistically ironclad, but it points the same way in every version of the test.
+The more telling result concerns which companies gained. Following the same 564 companies through both periods, I
+found that when an industry consolidated, its largest companies became more profitable while the smaller companies
+in the same industry became less so. The effect is modest and falls short of strict statistical significance, but
+it points the same way in every version of the test.
 
-That is Demsetz's test, fifty years later. If concentration were letting companies coordinate higher prices, the
-small firms would ride along on those prices. They didn't. The evidence fits what economists now call the
-**superstar firm** economy: the strongest companies pull ahead, take market share *and* profits, and everyone else
-falls further behind.
+This is the outcome Demsetz said to look for. If consolidation were allowing companies to keep prices high
+together, the smaller firms would have shared in the gains. Instead the results resemble what economists now call a
+superstar-firm economy, in which the strongest companies gain both market share and profit while their smaller
+competitors lose ground.
 
 ![Concentration changes vs. profit changes](results/changes_scatter.png)
 
 ---
 
-## Who owns the owners?
+## Who owns the companies
 
-There's one more layer of control that no concentration ratio can capture. Most of these companies are publicly
-traded, and many of the same shareholders turn up across every one of them. One study found that just three
-investment firms, **BlackRock, Vanguard and State Street**, together are the single largest shareholder in about
-**88% of the companies in the S&P 500**. So when four companies split a market, the same handful of fund managers
-often own large stakes in all four.
+Concentration ratios count companies, but they say nothing about who owns those companies, and ownership adds
+another layer to the question of control. Most of the firms in this study are publicly traded, and the same
+shareholders appear across many of them. One study found that three investment firms, BlackRock, Vanguard and State
+Street, are together the largest shareholder in about 88% of the companies in the S&P 500. In an industry divided
+among four companies, the same few fund managers often hold large stakes in all four.
 
-Whether that shared ownership softens competition, since a fund that owns every airline has little reason to want
-a fare war, is one of the most active debates in economics. I didn't test it here, but it's a reminder that "four
-competitors" doesn't always mean four independent ones.
-
----
-
-## Why this matters to you
-
-**For your wallet:** a concentrated industry isn't automatically ripping you off. Some of America's most
-dominated markets are barely profitable. But prices across manufacturing have crept further above costs over the
-past decade, and in the industries that consolidated, the extra profit went to the companies at the top.
-
-**For workers and small businesses:** consolidation's costs fall unevenly. When an industry concentrated, the
-smaller companies in it, often the regional employers and specialty manufacturers, saw their profits shrink while
-the leaders' grew.
-
-**For policy:** Bain's old rule of thumb, that any industry above 70% is suspect, doesn't survive contact with
-modern data. Neither does the opposite view, that concentration never matters. The evidence points somewhere
-subtler. What matters is less how concentrated an industry *is* than how it's *changing*: who is getting bigger,
-how they're doing it, and whether rivals are being squeezed out. That is roughly where antitrust enforcers have
-been heading. The federal government's 2023 merger guidelines put new weight on industries trending toward
-concentration, not just those already there.
+Economists are actively debating whether shared ownership of this kind weakens competition, on the reasoning that an
+investor who owns every airline gains little from a fare war. I didn't test that question here, but it means a count
+of four competitors doesn't necessarily describe four independent ones.
 
 ---
 
-## What this study can't tell you
+## Why it matters
 
-Every measurement has blind spots, and these are the ones that matter most:
+For consumers, a concentrated industry isn't necessarily an overpriced one, since some of the most concentrated
+markets in the country are barely profitable. Prices across manufacturing have risen further above costs over the
+past decade, though, and in the industries that consolidated, the added profit went to the companies at the top.
 
-- **Profits are global, concentration is local.** The Census counts American factories. Companies like Apple and
-  Pfizer report profits from around the world.
-- **Imports aren't counted.** American car production looks concentrated, but American buyers can also choose cars
-  built in Japan, Korea, Mexico and Germany.
-- **Accounting misses what matters most to modern firms.** Brands, patents and software rarely show up as assets,
-  which flatters some industries' profit rates more than others.
-- **Only public companies.** Private manufacturers, especially small ones, aren't in the financial data.
-- **Patterns aren't proof.** Mergers, booms and busts move concentration and profits at the same time. Finding 3
-  shows they move together, not that one causes the other.
+For workers and smaller businesses, the effects of consolidation are uneven. When an industry became more
+concentrated, its smaller companies, which are often regional employers and specialty manufacturers, saw their
+profits fall while the leaders' profits rose.
+
+For policy, Bain's rule of thumb that any industry above 70% deserves suspicion doesn't hold up against current
+data, and neither does the opposite view that concentration never matters. The evidence suggests that the direction
+of change in an industry matters more than its level, which means paying attention to which companies are growing,
+how they are growing, and whether their rivals are being pushed out. Antitrust enforcement has been moving in that
+direction. The federal merger guidelines issued in 2023 give new weight to industries that are trending toward
+concentration, not only to those that are already concentrated.
 
 ---
 
-## Going deeper
+## Limits of this study
 
-- **[TECHNICAL.md](TECHNICAL.md):** the methods, the full statistical results, references, and how to reproduce
-  everything.
-- **[results/FINDINGS.md](results/FINDINGS.md):** the complete technical write-up, every test and caveat.
-- **[results/REPORT.md](results/REPORT.md)** and **[results/CHANGES.md](results/CHANGES.md):** every table.
+The Census measures concentration among factories located in the United States, while companies like Apple and
+Pfizer report profits earned around the world, so the two measures don't cover exactly the same activity. Imports
+aren't counted either. American car production looks highly concentrated, but American buyers can also choose cars
+built in Japan, Korea, Mexico and Germany. Accounting statements rarely record brands, patents or software as
+assets, which inflates measured profit rates in some industries more than others. The financial data covers only
+publicly traded companies, so private manufacturers, especially small ones, are missing. And the consolidation
+results show that concentration and profits moved together, not that one caused the other, since mergers, booms and
+busts can drive both at once.
+
+---
+
+## Further reading
+
+[TECHNICAL.md](TECHNICAL.md) covers the methods, the full statistical results, references, and how to reproduce
+the analysis. [results/FINDINGS.md](results/FINDINGS.md) is the complete technical write-up, and
+[results/REPORT.md](results/REPORT.md) and [results/CHANGES.md](results/CHANGES.md) contain every table.
 
 The original paper is Joe S. Bain, "Relation of Profit Rate to Industry Concentration: American Manufacturing,
-1936–1940," *Quarterly Journal of Economics*, 1951. Industry concentration figures come from the US Census Bureau's
-2017 and 2022 Economic Census. Company financials come from Compustat, via Wharton Research Data Services. Those
-are licensed, so only industry-level results are published here.
+1936–1940," *Quarterly Journal of Economics*, 1951. Concentration figures come from the US Census Bureau's 2017 and
+2022 Economic Census. Company financial data comes from Compustat through Wharton Research Data Services, and
+because that data is licensed, only industry-level results are published here.
 
-*— Brendyn Beasley*
+*Brendyn Beasley*
